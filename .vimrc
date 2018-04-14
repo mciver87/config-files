@@ -87,3 +87,5 @@ set softtabstop=2
 set expandtab
 
 set mouse=a
+
+:highlight Comment ctermfg=139
